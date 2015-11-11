@@ -21,8 +21,8 @@
 *
 */
 
-#include "kodi/libXBMC_addon.h"
-#include "kodi/libXBMC_pvr.h"
+#include "mrmc/libXBMC_addon.h"
+#include "mrmc/libXBMC_pvr.h"
 
 #define DEFAULT_HOST              "192.168.1.20"
 #define DEFAULT_WEB_PORT          80
